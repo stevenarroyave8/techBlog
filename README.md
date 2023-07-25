@@ -1,4 +1,4 @@
-# techBlog
+# mvcTechBlog
 ## About 
 ## Installations 
 ## Usage
