@@ -2,4 +2,5 @@
 ## About 
 ## Installations 
 ## Usage
-### Contributing
+### Heroku link
+https://git.heroku.com/captain-make-a-blog.git
