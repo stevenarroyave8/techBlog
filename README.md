@@ -14,4 +14,4 @@ Run the command npm install to download the packages.
 
 Once packages are installed run npm start to get the server running so you can access the local host.
 ### Heroku link
-https://git.heroku.com/captain-make-a-blog.git
+https://captain-make-a-blog-a7423f517cfd.herokuapp.com/
